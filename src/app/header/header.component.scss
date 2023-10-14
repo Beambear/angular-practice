@@ -1,0 +1,11 @@
+.header-links {
+    justify-content: space-between;
+    a {
+        margin: 0 10px;
+        text-decoration: none;
+        color: inherit;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
